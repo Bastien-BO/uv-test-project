@@ -1,0 +1,1 @@
+uv init --name uv-test-project --app --vcs git --author-from git --no-workspace --python 3.12
